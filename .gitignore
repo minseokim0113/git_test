@@ -1,0 +1,5 @@
+db.properties
+class/**
+*.propertiesgit remote add origin https://github.com/minseokim0113/git_test.git
+git branch -M main
+git push -u origin main
